@@ -9,7 +9,6 @@ The analysis includes:
 - Trends in GHI over time
 - Distribution of GHI across different countries and regions
 - Severity of hunger over time and across different countries and regions
-- Cluster analysis grouping countries based on their GHI and severity
 - Spotlight on countries and regions with notable GHI scores and improvements
 
 ## Data
