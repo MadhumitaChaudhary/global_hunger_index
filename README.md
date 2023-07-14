@@ -24,7 +24,7 @@ The dataset used in this project is the Global Hunger Index data, which includes
 
 ## Analysis
 
-The analysis was performed using Python, with libraries such as pandas for data manipulation, matplotlib and seaborn for data visualization, and scikit-learn for cluster analysis.
+The analysis was performed using Python, with libraries such as pandas for data manipulation, matplotlib and seaborn for data visualization.
 
 ## Key Findings
 
