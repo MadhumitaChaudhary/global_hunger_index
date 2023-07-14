@@ -29,4 +29,4 @@ The analysis was performed using Python, with libraries such as pandas for data 
 
 ## Key Findings
 
-The key findings from the analysis are summarized in the report. These include trends in GHI over time, distribution of GHI across countries and regions, severity of hunger, and cluster analysis results.
+The key findings from the analysis are summarized in the report. These include trends in GHI over time, distribution of GHI across countries and regions and severity of hunger.
